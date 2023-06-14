@@ -1,5 +1,10 @@
 # Red-Black Tree
 
+<p align="center">
+  <img src="src/assets/red-black-tree.svg" alt="Arbol" width="500">
+</p>
+
+
 This project implements a Red-Black Tree data structure in TypeScript. A Red-Black Tree is a self-balancing binary search tree that ensures efficient insertion, deletion, and retrieval operations.
 
 ## Features
